@@ -11,33 +11,38 @@ I'm a Computer Science graduate with hands-on experience building and deploying 
 * 📍 Bangalore, Karnataka, India
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Languages
-
-
-
-\
+- Java
+- Python
+- JavaScript
+- SQL
 
 ### Frontend
-
-
-
-\
+- HTML
+- CSS
+- React.js
+- Next.js
 
 ### Backend & Database
-
-
-\
+- Node.js
+- Express.js
+- MongoDB
 
 ### Tools
+- Git
+- GitHub
+- VS Code
+- Canva
 
-
-
-\
-
----
+### AI / Machine Learning
+- Scikit-learn
+- TensorFlow
+- Keras
+- OpenCV
+- NLP
+- Streamlit
 
 ## 🚀 Featured Projects
 
@@ -138,7 +143,7 @@ Working on full-stack web development using modern JavaScript technologies and t
 
 ### Data Science Intern
 
-**Prineton Smart Engineers**
+**Prinston Smart Engineers**
 
 Worked on data science and machine-learning applications, including fake news detection.
 
