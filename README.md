@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate with hands-on experience building and deploying full-stack and machine-learning applications. I enjoy creating practical solutions using modern web technologies, AI, and data-driven approaches.
 
-* 🔭 Building full-stack applications with the MERN stack
+* 🔭 Full-Stack Developer focused on MERN, Java, Python, and AI/ML
 * 🌱 Continuously improving my skills in JavaScript, React, Node.js, Python, and AI/ML
 * 💡 Interested in Full-Stack, Frontend, Backend, and AI/ML development
 * 🚀 Looking for entry-level software development opportunities
